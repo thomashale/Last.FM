@@ -6,8 +6,5 @@ Pull a user's listening history from the last.FM API. Retrieves the following da
 * Album name
 * Date of stream
 * Time of stream
-* Duration of the track
-* Artist top tag
-* Album top tag
 
 Generate your API keys at https://www.last.fm/api/account/create
